@@ -1,0 +1,4 @@
+github.com/ambelovsky/gosf-socketio v0.0.0-20220810204405-0f97832ec7af h1:SXdLHP09xttaOeI9q3+strkbVIAmdo6CJwa9EqqMnug=
+github.com/ambelovsky/gosf-socketio v0.0.0-20220810204405-0f97832ec7af/go.mod h1:1w9JQkj1okH2vn3f95PdSbVvGg6d+x+TcaXQFpCfxmA=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
